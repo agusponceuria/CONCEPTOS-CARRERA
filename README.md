@@ -2,9 +2,15 @@
 
 Resumen de la carrera
 
-#Sistemas Gestores de Bases de Datos 
 
-1.1 Sistemas de Información orientados a procesos. 
+
+
+#SISTEMAS GESTORES DE BASE
+
+
+
+
+#1.1 Sistemas de Información orientados a procesos. 
 
 Antes de los SGBD (los setenta), la info se trataba y se gestionaba utilizando
 típicos sistemas de gestión de archivos que iban soportados sobre un sistema operativo.
@@ -32,7 +38,7 @@ con independencia de los programas que los gestionan.
 
 
 
-Inconvenientes de un sistema de gestión de archivos:
+#Inconvenientes de un sistema de gestión de archivos:
 
 
 1. Redundancia e inconsistencia de los datos
@@ -48,6 +54,56 @@ Inconvenientes de un sistema de gestión de archivos:
 
 
 
-1.2 Sistemas de Información orientados a los datos. Bases de Datos. 
+#1.2 Sistemas de Información orientados a los datos. Bases de Datos. 
+
+
+El objetivo primordial de un gestor es proporcionar eficiencia y seguridad 
+a la hora de extraer o almacenar información en las BD.
+Los sistemas gestores de BBDD están diseñados para gestionar grandes bloques de información,
+implica tanto la definición de estructuras para el almacenamiento como de mecanismos para la gestión
+de la información.
+Los datos se centralizan en una base de datos común a todas las aplicaciones, los datos se almacenan 
+en una única estructura lógica que es utilizable por las aplicaciones. 
+A través de esa estructura se accede a los datos que son comunes a todas las aplicaciones.
+Cuando una aplicación modifica un dato, la modificación será visible para el resto de
+aplicaciones.
+Una BD es un gran almacén de datos que se define una sola vez; los datos pueden ser accedidos de
+forma simultánea por varios usuarios; están relacionados y existe un número mínimo de duplicidad;
+además en las BBDD se almacenarán las descripciones de esos datos, lo que se llama metadatos en el
+diccionario de datos.
+
+
+
+
+
+#Ventajas 
+
+1. Independencia de los datos y los programas y procesos
+2. Menor redundancia
+3. Integridad de los datos
+4. Mayor seguridad en los datos
+5. Datos más documentados
+6. Acceso a los datos más eficiente
+7. Menor espacio de almacenamiento
+8. Acceso simultáneo a los datos
+
+
+#Desventajas
+
+1. Instalación costosa
+2. Requiere personal cualificado
+3. Implantación larga y difícil
+4. Ausencia de estándares reales
+
+
+
+
+
+
+
+
+
+
+
 
 
