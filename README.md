@@ -97,9 +97,39 @@ diccionario de datos.
 
 
 
+#2. Arquitectura de los Sistemas Gestores de Bases de Datos 
+
+
+Un sistema gestor de bases de datos o SGBD/DBMS
+procedentes del inglés, Data Base Management System, es el software que permite a los usuarios
+#procesar, #describir, #administrar y #recuperar los datos almacenados en una base de datos.
+Se proporciona un conjunto coordinado de #programas, #procedimientos y #lenguajes
+que permiten a los distintos usuarios realizar sus tareas habituales con los datos, garantizando además
+la seguridad de los mismos.
+El éxito del SGBD reside en mantener la seguridad e integridad de los datos, tiene que
+proporcionar herramientas a los distintos usuarios.
 
 
 
+Entre las herramientas que proporciona están: 
+
+1. Herramientas para la creación y especificación de los datos
+
+2. Herramientas para administrar y crear la estructura física
+
+3. Herramientas para la manipulación de los datos
+
+4. Herramientas de recuperación
+
+5. Herramientas para la creación de copias de seguridad
+
+6. Herramientas para la gestión de la comunicación
+
+7. Herramientas para la creación de aplicaciones
+
+8. Herramientas de instalación
+
+9. Herramientas para la exportación e importación
 
 
 
